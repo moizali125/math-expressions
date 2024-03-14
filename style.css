@@ -1,0 +1,38 @@
+* {
+  box-sizing: border-box;
+  padding: 0%;
+  margin: 0%;
+}
+h1 {
+  text-transform: uppercase;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  font-size: xxx-large;
+  margin: 100px;
+  color: blue;
+}
+.blue {
+  background-color: blue;
+  width: 100%;
+  height: 100px;
+}
+.blue-buttom {
+  background-color: blue;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+.heading {
+  width: 100%;
+  height: 200px;
+}
+.para {
+  color: #fff;
+}
