@@ -3,7 +3,7 @@
   padding: 0%;
   margin: 0%;
 }
-h1 {
+.head {
   text-transform: uppercase;
   display: flex;
   flex-direction: row;
@@ -35,4 +35,15 @@ h1 {
 }
 .para {
   color: #fff;
+}
+.moiz > .ali {
+  background-color: aquamarine;
+  color: black;
+  margin: 20px;
+  padding: 20px;
+}
+.moiz {
+  background-color: rgb(168, 168, 168);
+  margin: 0px;
+  padding: 5px;
 }
